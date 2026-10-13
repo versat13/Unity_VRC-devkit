@@ -1,0 +1,16 @@
+{
+  "name": "Versat.VrcDevKit.Mcp",
+  "rootNamespace": "Versat.VrcDevKit.Mcp",
+  "references": ["Versat.VrcDevKit.Editor", "MCPForUnity.Editor"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": ["Newtonsoft.Json.dll"],
+  "autoReferenced": false,
+  "defineConstraints": ["VRCDK_MCP"],
+  "versionDefines": [
+    { "name": "com.coplaydev.unity-mcp", "expression": "0.0.0", "define": "VRCDK_MCP" }
+  ],
+  "noEngineReferences": false
+}

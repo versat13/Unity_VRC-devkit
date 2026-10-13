@@ -1,0 +1,23 @@
+{
+  "name": "com.versat.vrc-devkit",
+  "version": "0.1.0",
+  "displayName": "VRC DevKit",
+  "description": "LLM-operable lint / dump / sync-check tools for VRChat avatar and world gimmick development.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Versat"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vrchat",
+    "lint",
+    "animator",
+    "llm",
+    "mcp"
+  ],
+  "documentationUrl": "https://github.com/versat13/Unity_VRC-devkit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/versat13/Unity_VRC-devkit.git"
+  }
+}
